@@ -2,7 +2,7 @@
 title: "Ebook: Continuous Delivery With Spinnaker"
 linkTitle: "Ebook"
 weight: 2
-description:
+description: "Download this free ebook to learn how you can deploy software changes to production quickly, safely, and automatically using Spinnaker. Spinnaker will enable your company to design and automate a delivery process that fits your release cadence and business criticality of your application."
 ---
 
 [![](cover.png)](ContinuousDeliveryWithSpinnaker.pdf)
